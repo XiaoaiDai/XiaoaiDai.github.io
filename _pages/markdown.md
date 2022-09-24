@@ -24,179 +24,113 @@ redirect_from:
 
 ## Tips and hints
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
-
 ## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+## 专利与软著
 
-## Markdown guide
+- 冯海鹏, 戴晓爱, 付天章, 李成, 单云锋. 基于IDL遥感影像处理平台: 2022SR0607601[P]. 2022-05-19.
 
-### Header three
-
-#### Header four
-
-##### Header five
-
-###### Header six
+- 付天章, 戴晓爱, 冯海鹏, 李成, 单云锋. 基于USLE模型的土壤侵蚀定量评价系统: 2022SR0607691[P]. 2022-05-19.
 
 ## Blockquotes
 
-Single line blockquote:
+百篇优秀学士学位论文（设计）指导教师，成都理工大学，2022.06
 
-> Quotes are cool.
+第十三届“北斗杯”全国青少年科技创新大赛全国总决赛一等奖指导教师（全国总决赛一等奖1项，二等奖1项，三等奖1项，四川省一等奖3项，四川省二等奖1项），中国卫星导航定位协会，2022.04
 
-## Tables
+第三届全国大学生自然资源科技作品大赛二等奖指导教师，中国自然资源学会，2021.12
 
-### Table 1
+第十届全国大学生GIS应用技能大赛优秀指导教师（指导学生获得一等奖），中国地理学会，2021.11
 
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+第一届苍穹杯大学生空间信息技术大赛，优秀指导教师（指导学生获得特等奖、一等奖、二等奖各一组），中国测绘学会，2021.11
 
-### Table 2
+2021年“航天宏图杯”PIE遥感与地理信息一体化软件二次开发大赛,优秀指导教师（指导学生获得三组优秀奖），中国测绘学会，2021.11
 
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
+第三届全国高等学校GIS教学成果奖一等奖，教育部高等学校地理科学类专业教学指导委员会，2021.08
 
-## Definition Lists
+成都理工大学教学成果奖一等奖，2021.09
 
-Definition List Title
-:   Definition list division.
+成都理工大学“三下乡”暑期社会实践优秀团队指导教师，2021.10
 
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
+第十二届“北斗杯”全国青少年科技创新大赛全国大学组科技论文二等奖指导教师，中国卫星导航定位协会，2021.04
 
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
+第十二届“北斗杯”全国青少年科技创新大赛西南赛区大学组科技论文一等奖指导教师，中国卫星导航定位协会，2021.04
 
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
+第十二届“北斗杯”全国青少年科技创新大赛西南赛区大学组科技论文三等奖指导教师，中国卫星导航定位协会，2021.04
 
-## Unordered Lists (Nested)
+第九届全国大学生GIS应用技能大赛一等奖优秀指导教师, 中国地理学会，2020
 
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
+SuperMap杯第18届全国高校GIS大赛地理分析组优秀指导教师,2020
 
-## Ordered List (Nested)
+SuperMap杯第18届全国高校GIS大赛论文组优秀指导教师,2020
 
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
+第六届四川省国际“互联网+”大学生创新创业大赛省级铜奖指导教师，四川省教育厅，2020
 
-## Buttons
+2020年成都市大中专学生志愿者暑期文化科技卫生“三下乡”社会实践活动优秀指导教师，共青团成都市委，2020
 
-Make any link standout more when applying the `.btn` class.
+2020年成都理工大学“优秀教师”，成都理工大学，2020.09
 
-## Notices
+百篇优秀学士学位论文（设计）指导教师，成都理工大学，2020.06
 
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
+SuperMap杯第17届全国高校GIS大赛开发组优秀指导教师,2019
 
-## HTML Tags
+SuperMap杯第17届全国高校GIS大赛应用组优秀指导教师,2019
 
-### Address Tag
+四川省海外高层次留学人才，四川省人社厅，2019.05
 
-<address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
-</address>
+第十届“北斗杯”全国青少年科技创新大赛西南赛区大学组科技论文一等奖指导教师，中国卫星导航定位协会，2019.04
 
-### Anchor Tag (aka. Link)
+第十届“北斗杯”全国青少年科技创新大赛全国总决赛大学组科技论文三等奖指导教师，中国科协青少年科技中心，2019.04
 
-This is an example of a [link](http://github.com "Github").
+第二届全国高等学校GIS教学成果奖一等奖，教育部高等学校地理科学类专业教学指导委员会，2019.06
 
-### Abbreviation Tag
+百篇优秀学士学位论文（设计）指导教师，成都理工大学，2019.06
 
-The abbreviation CSS stands for "Cascading Style Sheets".
+中国地理信息科学理论与方法学术年会青年教师论文竞赛三等奖，中国地理信息产业协会，2019.10
 
-*[CSS]: Cascading Style Sheets
+四川省第八届高等教育优秀成果二等奖，四川省人民政府，2018
 
-### Cite Tag
+SuperMap杯第16届全国高校GIS大赛优秀指导教师,2018
 
-"Code is poetry." ---<cite>Automattic</cite>
+第十届全国高校GIS技能大赛优秀指导教师,2018
 
-### Code Tag
+第四届全国高校GIS 专业青年教师讲课竞赛一等奖，2017
 
-You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
+第六届全国大学生GIS应用技能大赛优秀指导教师, 2017
 
-### Strike Tag
+SuperMap杯第14届全国高校GIS大赛优秀指导教师,2016
 
-This tag will let you <strike>strikeout text</strike>.
+第八届全国高校GIS技能大赛优秀指导教师,2016
 
-### Emphasize Tag
+成都理工大学教学成果奖一等奖，2016
 
-The emphasize tag should _italicize_ text.
+第六届“北斗杯”全国青少年科技创新大赛优秀指导教师,2015
 
-### Insert Tag
+第七届全国高校GIS技能大赛优秀指导教师,2015
 
-This tag should denote <ins>inserted</ins> text.
+第四届全国大学生GIS应用技能大赛优秀指导教师, 2015
 
-### Keyboard Tag
+成都理工大学优秀班主任，2015
 
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
+第六届全国高校GIS技能大赛优秀指导教师,2014
 
-### Preformatted Tag
+成都理工大学优秀教师,2015
 
-This tag styles large blocks of code.
+成都理工大学教学骨干教师，2014
 
-<pre>
-.post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
-</pre>
+成都理工大学地球科学学院青年教师讲课竞赛二等奖，2014
 
-### Quote Tag
+成都理工大学优秀学士学位论文（设计）指导教师，2014
 
-<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
+四川省测绘学会优秀论文奖，2014
 
-### Strong Tag
+2010全国地理信息系统教学研讨会优秀论文奖，2010；
 
-This tag shows **bold text**.
+第一届全国高校GIS 专业青年教师讲课竞赛二等奖，2011；
 
-### Subscript Tag
+第五届GIS教育研讨会优秀青年论文 二等奖，2012； 
 
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
+成都理工大学“优秀班主任”，2002
 
-### Superscript Tag
+四川省地质学会第七届理事会优秀论文三等奖，2006
 
-Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
 
-### Variable Tag
-
-This allows you to denote <var>variables</var>.
