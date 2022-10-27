@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "项目"
-    url: /cv/
+    url: /projects/
 
  # - title: "Portfolio"
  #   url: /portfolio/
@@ -10,16 +10,14 @@ main:
     url: /publications/
 
   - title: "会议"
-    url: /talks/    
+    url: /conferences/
 
   - title: "教学"
-    url: /teaching/    
+    url: /teaching/
            
  # - title: "Blog Posts"
  #   url: /year-archive/
     
  #   
   - title: "专利、软著与荣誉"
-    url: /markdown/
-  - title: "专利、软著与荣誉2"
-    url: /patent/
+    url: /patents/

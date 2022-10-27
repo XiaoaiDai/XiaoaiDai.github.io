@@ -6,6 +6,7 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+本页已无效，可备用
 
 ## 专利与软著
 

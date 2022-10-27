@@ -4,6 +4,13 @@ title: "第一作者/通讯作者发表论文"
 permalink: /publications/
 author_profile: true
 ---
+Dai, X.;Wang,Z.;Liu S.;Yao,Y. Hyperspectral imagery reveals large spatial variations of heavy metal content in agricultural soil - A case study of remote-sensing inversion based on Orbita Hyperspectral Satellites (OHS) imagery. Journal of Cleaner Production. 2022 (Accepted)
+
+Zeng J, Xu J, Li W, Dai X*, Zhou J, Shan Y, Zhang J, Li W, Lu H, Ye Y, Xu L, Liang S, Wang Y. Evaluating Trade-Off and Synergies of Ecosystem Services Values of a Representative Resources-Based Urban Ecosystem: A Coupled Modeling Framework Applied to Panzhihua City, China. Remote Sensing. 2022; 14(20):5282. https://doi.org/10.3390/rs14205282
+
+Yang, X.; Dai, X.; Li, W.; Lu, H.; Liu, C.; Li, N.; Yang, Z.; He, Y.; Li, W.; Fu, X.; et al.Socio-Ecological Vulnerability in Aba Prefecture, Western Sichuan Plateau: Evaluation, Driving Forces and Scenario Simulation. ISPRS Int. J. Geo-Inf. 2022, 11, 524. https://doi.org/10.3390/ijgi11100524
+
+Yang, Z., Duan, S*., Dai, X*., Sun, Y., & Liu, M. (2022). Mapping of lakes in the Qinghai-Tibet Plateau from 2016 to 2021: Trend and potential regularity. International Journal of Digital Earth. https://doi.org/10.1080/17538947.2022.2131008
 
 Qu, G.; Dai, X.; Cheng, J.; Li,W.; Wang, M.; Liu, W.; Yang, Z.; Shan,Y.; Ren, J.; Lu, H.; et al. Characterization of Long-Time Series Variation of Glacial Lakes in Southwestern Tibet: A Case Study in the Nyalam County. Remote Sens. 2022, 14, 4688. https://doi.org/ 10.3390/rs14194688
 
