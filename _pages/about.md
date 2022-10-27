@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 
 ---
-
+  
 **姓   名**：戴晓爱
 
 **性   别**：女
@@ -25,7 +25,7 @@ redirect_from:
 
 **职   称**：副教授（地图学与地理信息系统）
 
-**Email**：daixiaoai@163.com
+**Email**：daixiaoai@163.com    daixiaoa@cdut.edu.cn
 
 **手   机**：18081988616
 
