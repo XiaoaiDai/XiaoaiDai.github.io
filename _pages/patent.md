@@ -1,10 +1,9 @@
 ---
-permalink: /markdown/
+permalink: /patent/
 title: "专利、软著与荣誉"
 author_profile: true
 redirect_from: 
-  - /md/
-  - /markdown.html
+  - /patent.html
 ---
 
 ## 专利与软著
