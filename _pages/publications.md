@@ -4,6 +4,10 @@ title: "第一作者/通讯作者发表论文"
 permalink: /publications/
 author_profile: true
 ---
+Xiaoai Dai, Haipeng Feng, Lixiao Xiao, Jiayun Zhou, Zekun Wang, Junjun Zhang, Tianzhang Fu, Yunfeng Shan, Xianhua Yang, Yakang Ye, Li Xu, Xiaoli Jiang, Shibo Fang, Yuanzhi Yao. Ecological vulnerability assessment of a China's representative mining city based on hyperspectral remote sensing. Ecological Indicators, 2022:145:109663. ISSN 1470-160X.https://doi.org/10.1016/j.ecolind.2022.109663.
+
+Dai, X.;Wang,Z.;Liu S.;Yao,Y. Hyperspectral imagery reveals large spatial variations of heavy metal content in agricultural soil - A case study of remote-sensing inversion based on Orbita Hyperspectral Satellites (OHS) imagery. Journal of Cleaner Production. 2022:380(1):134878, ISSN 0959-6526, https://doi.org/10.1016/j.jclepro.2022.134878.
+
 Dai, X.;Wang,Z.;Liu S.;Yao,Y. Hyperspectral imagery reveals large spatial variations of heavy metal content in agricultural soil - A case study of remote-sensing inversion based on Orbita Hyperspectral Satellites (OHS) imagery. Journal of Cleaner Production. 2022 (Accepted)
 
 Zeng J, Xu J, Li W, Dai X*, Zhou J, Shan Y, Zhang J, Li W, Lu H, Ye Y, Xu L, Liang S, Wang Y. Evaluating Trade-Off and Synergies of Ecosystem Services Values of a Representative Resources-Based Urban Ecosystem: A Coupled Modeling Framework Applied to Panzhihua City, China. Remote Sensing. 2022; 14(20):5282. https://doi.org/10.3390/rs14205282
