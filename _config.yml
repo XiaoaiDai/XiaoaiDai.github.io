@@ -10,7 +10,7 @@ locale                   : "ch-CN"
 title                    : "戴晓爱/Dai Xiaoai"
 title_separator          : "-"
 name                     : &name "戴晓爱"
-description              : &description "成都理工大学副教授"
+description              : &description "博士，副教授"
 url                      : "https://XiaoaiDai.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "XiaoaiDai/XiaoaiDai.github.io"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "戴晓爱博士"
+  name             : "戴晓爱"
   avatar           : "profile.png"
-  bio              : "成都理工大学副教授"
+  bio              : "博士，副教授"
   location         : "四川，成都"
-  employer         :
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=NyTehKMAAAAJ&hl=zh-CN"
   email            : "daixiaoai@163.com"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/ 0000-0003-1342-6417"
+  orcid            : "http://orcid.org/0000-0003-1342-6417"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
