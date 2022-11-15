@@ -79,7 +79,11 @@ redirect_from:
 - Qu, G.; Dai, X.*; Cheng, J.; Li,W.; Wang, M.; Liu, W.; Yang, Z.; Shan,Y.; Ren, J.; Lu, H.; et al. Characterization of Long-Time Series Variation of Glacial Lakes in Southwestern Tibet: A Case Study in the Nyalam County. Remote Sens. 2022, 14, 4688. https://doi.org/ 10.3390/rs14194688
 - Wang, X., Chen, G., Dai, X*. et al. Improved Process Management of Glacial Lake Outburst Flood Hazards by Integrating Modular Monitoring, Assessment, and Simulation. Water Resour Manage (2022). https://doi.org/10.1007/s11269-022-03146-9
 - Dai, X.*; Yang, X.; Wang, M.; Gao, Y.; Liu, S.; Zhang, J. The Dynamic Change of Bosten Lake Area in Response to Climate in the Past 30 Years[J].Water ,2020, 12, 4:1-23.
+
+
+
 ### GIS空间分析与制图
+
 1.生态环境监测与评价
 ![图片](..\\images\\yjfx5.jpg "生态环境监测与评价")
 
@@ -98,7 +102,7 @@ redirect_from:
 
 - Dai X, Johnson BA, Luo P, Yang K, Dong L, Wang Q, Liu C, Li N, Lu H, Ma L, Yang Z, Yao Y. Estimation of Urban Ecosystem Services Value: A Case Study of Chengdu, Southwestern China. Remote Sensing. 2021; 13(2):207. https://doi.org/10.3390/rs13020207
 
-3. GIS与地质灾害易发性评价
+3.GIS与地质灾害易发性评价
 ![图片](..\\images\\yjfx7.jpg "GIS与地质灾害易发性评价")
 
 - Cheng J, Dai X*, Wang Z, et al. Landslide Susceptibility Assessment Model Construction Using Typical Machine Learning for the Three Gorges Reservoir Area in China[J]. Remote Sensing, 2022, 14(9): 2257.

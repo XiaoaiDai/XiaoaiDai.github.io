@@ -83,8 +83,8 @@ author:
   name             : "戴晓爱"
   avatar           : "profile.png"
   bio              : "博士，副教授"
-  location         : "四川，成都"
-  employer         : 
+  location         : "成都理工大学"
+  employer         : "成都理工大学" #不显示
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=NyTehKMAAAAJ&hl=zh-CN"
   email            : "daixiaoai@163.com"
