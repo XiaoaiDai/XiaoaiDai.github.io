@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 
 ---
-  
+
 **姓   名**：戴晓爱
 
 **性   别**：女
@@ -74,17 +74,28 @@ redirect_from:
 - Dai, X.*; Yang, X.; Wang, M.; Gao, Y.; Liu, S.; Zhang, J. The Dynamic Change of Bosten Lake Area in Response to Climate in the Past 30 Years[J].Water ,2020, 12, 4:1-23.
 ### GIS空间分析与制图
 1. 生态环境监测与评价
-![图片](..\\images\\yjfx5.jpg "生态环境监测与评价")
+   ![图片](..\\images\\yjfx5.jpg "生态环境监测与评价")
+
 - Xiaoai Dai, Haipeng Feng, Lixiao Xiao, Jiayun Zhou, Zekun Wang,, Shibo Fang, Yuanzhi Yao. Ecological vulnerability assessment of a China's representative mining city based on hyperspectral remote sensing. Ecological Indicators, 2022:145:109663. ISSN 1470-160X.https://doi.org/10.1016/j.ecolind.2022.109663.
+
 - HE Qian,DAI Xiao’ai*,CHEN Shiqi. Assessing the effects of vegetation and precipitation on soil erosion in the Three-River Headwaters Region of the Qinghai-Tibet Plateau,China.Journal of Arid Land,2020,12(5):865-886.  https://doi.org/10.1007/s40333-020-0075-9.
-Dai, X.*, Gao, Y., He, X. et al. Spatial-temporal pattern evolution and driving force analysis of ecological environment vulnerability in Panzhihua City. Environ Sci Pollut Res (2020). https://doi.org/10.1007/s11356-020-11013-6
+  Dai, X.*, Gao, Y., He, X. et al. Spatial-temporal pattern evolution and driving force analysis of ecological environment vulnerability in Panzhihua City. Environ Sci Pollut Res (2020). https://doi.org/10.1007/s11356-020-11013-6
+
 - Yang, X.; Dai, X.; Li, W.; Lu, H.; Liu, C.; Li, N.; Yang, Z.; He, Y.; Li, W.; Fu, X.; et al.Socio-Ecological Vulnerability in Aba Prefecture, Western Sichuan Plateau: Evaluation, Driving Forces and Scenario Simulation. ISPRS Int. J. Geo-Inf. 2022, 11, 524. https://doi.org/10.3390/ijgi11100524
-2. 生态系统服务
+
+2.生态系统服务
+
 ![图片](..\\images\\yjfx6.jpg "生态系统服务")
-Zeng J, Xu J, Li W, Dai X*, Zhou J, Shan Y, Zhang J, Li W, Lu H, Ye Y, Xu L, Liang S, Wang Y. Evaluating Trade-Off and Synergies of Ecosystem Services Values of a Representative Resources-Based Urban Ecosystem: A Coupled Modeling Framework Applied to Panzhihua City, China. Remote Sensing. 2022; 14(20):5282. https://doi.org/10.3390/rs14205282
-Dai X, Johnson BA, Luo P, Yang K, Dong L, Wang Q, Liu C, Li N, Lu H, Ma L, Yang Z, Yao Y. Estimation of Urban Ecosystem Services Value: A Case Study of Chengdu, Southwestern China. Remote Sensing. 2021; 13(2):207. https://doi.org/10.3390/rs13020207
+
+- Zeng J, Xu J, Li W, Dai X*, Zhou J, Shan Y, Zhang J, Li W, Lu H, Ye Y, Xu L, Liang S, Wang Y. Evaluating Trade-Off and Synergies of Ecosystem Services Values of a Representative Resources-Based Urban Ecosystem: A Coupled Modeling Framework Applied to Panzhihua City, China. Remote Sensing. 2022; 14(20):5282. https://doi.org/10.3390/rs14205282
+
+- Dai X, Johnson BA, Luo P, Yang K, Dong L, Wang Q, Liu C, Li N, Lu H, Ma L, Yang Z, Yao Y. Estimation of Urban Ecosystem Services Value: A Case Study of Chengdu, Southwestern China. Remote Sensing. 2021; 13(2):207. https://doi.org/10.3390/rs13020207
+
 3. GIS与地质灾害易发性评价
 ![图片](..\\images\\yjfx7.jpg "GIS与地质灾害易发性评价")
+
 - Cheng J, Dai X*, Wang Z, et al. Landslide Susceptibility Assessment Model Construction Using Typical Machine Learning for the Three Gorges Reservoir Area in China[J]. Remote Sensing, 2022, 14(9): 2257.
+
 - Jiang, F., Dai, X.*, Xie, Z. et al. Flood inundation evolution of barrier lake and evaluation of regional ecological spatiotemporal response—a case study of Sichuan-Tibet region. Environ Sci Pollut Res (2022). https://doi.org/10.1007/s11356-022-20866-y
+
 - Zhang, J.; Xu, J.; Dai, X.; Ruan, H.; Liu, X.; Jing, W. Multi-Source Precipitation Data Merging for Heavy Rainfall Events Based on Cokriging and Machine Learning Methods. Remote Sens. 2022, 14, 1750. https://doi.org/10.3390/rs14071750

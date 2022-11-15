@@ -4,120 +4,61 @@ title: "第一作者/通讯作者发表论文"
 permalink: /publications/
 author_profile: true
 ---
-Xiaoai Dai, Haipeng Feng, Lixiao Xiao, Jiayun Zhou, Zekun Wang, Junjun Zhang, Tianzhang Fu, Yunfeng Shan, Xianhua Yang, Yakang Ye, Li Xu, Xiaoli Jiang, Shibo Fang, Yuanzhi Yao. Ecological vulnerability assessment of a China's representative mining city based on hyperspectral remote sensing. Ecological Indicators, 2022:145:109663. ISSN 1470-160X.https://doi.org/10.1016/j.ecolind.2022.109663.
-
-Dai, X.;Wang,Z.;Liu S.;Yao,Y. Hyperspectral imagery reveals large spatial variations of heavy metal content in agricultural soil - A case study of remote-sensing inversion based on Orbita Hyperspectral Satellites (OHS) imagery. Journal of Cleaner Production. 2022:380(1):134878, ISSN 0959-6526, https://doi.org/10.1016/j.jclepro.2022.134878.
-
-Dai, X.;Wang,Z.;Liu S.;Yao,Y. Hyperspectral imagery reveals large spatial variations of heavy metal content in agricultural soil - A case study of remote-sensing inversion based on Orbita Hyperspectral Satellites (OHS) imagery. Journal of Cleaner Production. 2022 (Accepted)
-
-Zeng J, Xu J, Li W, Dai X*, Zhou J, Shan Y, Zhang J, Li W, Lu H, Ye Y, Xu L, Liang S, Wang Y. Evaluating Trade-Off and Synergies of Ecosystem Services Values of a Representative Resources-Based Urban Ecosystem: A Coupled Modeling Framework Applied to Panzhihua City, China. Remote Sensing. 2022; 14(20):5282. https://doi.org/10.3390/rs14205282
-
-Yang, X.; Dai, X.; Li, W.; Lu, H.; Liu, C.; Li, N.; Yang, Z.; He, Y.; Li, W.; Fu, X.; et al.Socio-Ecological Vulnerability in Aba Prefecture, Western Sichuan Plateau: Evaluation, Driving Forces and Scenario Simulation. ISPRS Int. J. Geo-Inf. 2022, 11, 524. https://doi.org/10.3390/ijgi11100524
-
-Yang, Z., Duan, S*., Dai, X*., Sun, Y., & Liu, M. (2022). Mapping of lakes in the Qinghai-Tibet Plateau from 2016 to 2021: Trend and potential regularity. International Journal of Digital Earth. https://doi.org/10.1080/17538947.2022.2131008
-
-Qu, G.; Dai, X.; Cheng, J.; Li,W.; Wang, M.; Liu, W.; Yang, Z.; Shan,Y.; Ren, J.; Lu, H.; et al. Characterization of Long-Time Series Variation of Glacial Lakes in Southwestern Tibet: A Case Study in the Nyalam County. Remote Sens. 2022, 14, 4688. https://doi.org/ 10.3390/rs14194688
-
-Liu, W.; Dai, X.; Wang, M.;Lan, Y.; Qu, G.; Shan, Y.; Ren, J.; Li,W.; Liang, S.; Wang, Y.; et al. Area Changes and Influencing Factors of Large Inland Lakes in Recent 20 Years: A Case Study of Sichuan Province, China. Water 2022, 14, 2816. https://doi.org/10.3390/w1418281
-
-Shan Y, Dai X*, Li W, Yang Z, Wang Y, Qu G, Liu W, Ren J, Li C, Liang S, Zeng B. Detecting Spatial-Temporal Changes of Urban Environment Quality by Remote Sensing-Based Ecological Indices: A Case Study in Panzhihua City, Sichuan Province, China. Remote Sensing. 2022; 14(17):4137. https://doi.org/10.3390/rs14174137
-
-Dai, X.; Fan, W.; Shan, Y.;Gao, Y.; Liu, C.; Nie, R.; Zhang, D.; Li,W.; Zhang, L.; Sun, X.; et al. LAI-Based Phenological Changes and Climate Sensitivity Analysis in the Three-River Headwaters Region. Remote Sens. 2022, 14, 3748. https://doi.org/10.3390/rs14153748
-
-Zhichong Yang, Xiaoai Dai*, Zekun Wang, Xiaojie Gao, Ge Qu, Weile Li, Jingzhong Li, Heng Lu, Youlin Wang; The dynamics of Paiku Co lake area in response to climate change. Journal of Water and Climate Change 2022; jwc2022083. doi: https://doi.org/10.2166/wcc.2022.083
-
-Cheng J, Dai X, Wang Z, et al. Landslide Susceptibility Assessment Model Construction Using Typical Machine Learning for the Three Gorges Reservoir Area in China[J]. Remote Sensing, 2022, 14(9): 2257.
-
-Jiang, F., Dai, X.*, Xie, Z. et al. Flood inundation evolution of barrier lake and evaluation of regional ecological spatiotemporal response—a case study of Sichuan-Tibet region. Environ Sci Pollut Res (2022). https://doi.org/10.1007/s11356-022-20866-y
-
-Wang, X., Chen, G., Dai, X*. et al. Improved Process Management of Glacial Lake Outburst Flood Hazards by Integrating Modular Monitoring, Assessment, and Simulation. Water Resour Manage (2022). https://doi.org/10.1007/s11269-022-03146-9
-
-Shiqi Zhang, Xiaoai Dai*, Jingzhong Li, Xiaojie Gao, Fuxi Zhang, Fanxi Gong, Heng Lu, Meilian Wang, Fujiang Ji, Zekun Wang & Peihao Peng (2022): Crop Classification for UAV Visible Imagery Using Deep Semantic Segmentation Methods, Geocarto International, DOI: 10.1080/10106049.2022.203238
-
-Zhang, J.; Xu, J.; Dai, X.; Ruan, H.; Liu, X.; Jing, W. Multi-Source Precipitation Data Merging for Heavy Rainfall Events Based on Cokriging and Machine Learning Methods. Remote Sens. 2022, 14, 1750. https://doi.org/10.3390/rs14071750
-
-樊文杰,戴晓爱*,谢一茹,高怡凡.利用CLUE-S模型对四川省未来10年土地利用变化的预测与分析[J].科学技术与工程,2022,22(07):2641-2647.
-
-戴晓爱*,邵怀勇,刘汉湖,简季,罗智勇,田盛圭,杨武年.山地灾害防治GIS思政教学案例库构建[J].南京师大学报(自然科学版),2021,44(S1):49-56.（doi:10.3969/j. issn.1001-4616.2021.S1.008）.
-
-Dai, X. , Liu, C. , Li, N. , Wang, M. , & Wang, Z. . (2021). Lai scale effect research based on compact airborne spectrographic imager data in the heihe oasis. Journal of Mountain Science, 18(6), 1630-1645. https://doi.org/10.1007/s11629-020-6525-1
-
-Dai, X*., He, X., Guo, S. et al. Research on hyper-spectral remote sensing image classification by applying stacked de-noising auto-encoders neural network. Multimedia Tools and Applications 80, 21219–21239 (2021).https://doi.org/10.1007/s11042-021-10735-0
-
-Dai X, Johnson BA, Luo P, Yang K, Dong L, Wang Q, Liu C, Li N, Lu H, Ma L, Yang Z, Yao Y. Estimation of Urban Ecosystem Services Value: A Case Study of Chengdu, Southwestern China. Remote Sensing. 2021; 13(2):207. https://doi.org/10.3390/rs13020207
-
-HE Qian,DAI Xiao’ai*,CHEN Shiqi. Assessing the effects of vegetation and precipitation on soil erosion in the Three-River Headwaters Region of the Qinghai-Tibet Plateau,China.Journal of Arid Land,2020,12(5):865-886. ![img](file:///C:/Users/asus/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png)https://doi.org/10.1007/s40333-020-0075-9.
-
-Dai, X.*, Gao, Y., He, X. et al. Spatial-temporal pattern evolution and driving force analysis of ecological environment vulnerability in Panzhihua City. Environ Sci Pollut Res (2020). https://doi.org/10.1007/s11356-020-11013-6
-
-Xiaoai Dai*, Junying Cheng, Yu Gao, Shouheng Guo, Xingping Yang, Xiaoqian Xu, Yi Cen, "Deep Belief Network for Feature Extraction of Urban Artificial Targets", Mathematical Problems in Engineering, vol. 2020, Article ID 2387823, 13 pages, 2020. https://doi.org/10.1155/2020/238782
-
-Dai, X.*; Yang, X.; Wang, M.; Gao, Y.; Liu, S.; Zhang, J. The Dynamic Change of Bosten Lake Area in Response to Climate in the Past 30 Years[J].Water ,2020, 12, 4:1-23.
-
-陈艾琳，戴晓爱*，张诗琪，周旋.2007-2016年四川省土壤干旱时空动态分析[J].山地学报，2020,38（1）:001-010
-
-Bing, X. and Y. Wu-nian, et al. (2018). "Quantitative Retrieval of Soil Moisture Content in the Upper Reaches of the Minjiang River." Polish Journal of Environmental Studies 27. Pol. J. Environ. Stud. Vol. 27, No. 5 (2018), 1959-1964
-
-戴晓爱*，郭守恒等,.基于堆栈式稀疏自编码器的高光谱影像分类[J]. 电子科技大学学报, 2016, 45(3): 382-386
-
-
-
-Yan, Lan; Xiaoai, Dai*; Xiaoxue, Zhang; Yanxia, Gan; Dingfa, Huang ,Analysis of canopy spectral sensitivity on representative campus vegetation in different growth periods[J], International Journal of Earth Sciences and Engineering, 2016,09：2060-2065
-
-戴晓爱;贾虎军;吴芬芳;杨晓霞;空间数据压缩的高光谱降维技术比较[J].遥感信息;2017,32（2）：107-112
-
- 戴晓爱,杨晓霞,高孝杰,杨武年,贾虎军,杨叶,潘佩芬. 基于高光谱非线性向量空间的光谱曲线特征差异性分析[J]. 遥感技术与应用,2015,06:1095-1102.
-
-戴晓爱,贾虎军等,. 岷江上游亚高山典型森林植被高光谱特征识别[J]. 国土资源遥感,2016,28(3),14-20
-
-韩亮,戴晓爱等,. 改进的基于实地大气模式的大气透射率反演方法J]. 国土资源遥感, 2016,28(4): 88-92.
-
-杨雨薇, 戴晓爱*, 牛育天, 刘汉湖, 杨晓霞, 兰燕. 基于CASI数据的黑河绿洲区叶面积指数反演[J]. 国土资源遥感, 2017,29(4): 179-184.
-
-王美莲, 戴晓爱*. 植被覆盖度与温度关系的MODIS高光谱研究[J]. 测绘科学, 2018(4).
-
-王翔, 戴晓爱, 陈永俊,等. 金属矿区型城镇生态热环境效应分析[J]. 科学技术与工程, 2019, 19(13):12-19.
-
-贺倩,戴晓爱.基于LMDI模型定量分析三江源区植被对土壤侵蚀变化的影响[J/OL].长江科学院院报:1-8[2020-06-15].http://kns.cnki.net/kcms/detail/42.1171.tv.20190801.1103.002.html.
-
-Dai, Xiao-Ai,Yang, Wu-Nian,Tang, Chuan， Application of 3D Visualization of Remote Sensing Images for Airport Construction in Tengchong County, Yunnan Province, China-- a case study in Kangding County, Xizang Autonomous Region,2011 International Workshop on Multi-Platform/Multi-Sensor Remote Sensing and Mapping China，pp126-129. (EI收录20110813687434）
-
-Dai, Xiao-Ai,Yang, Wu-Nian,Tang, Chuan， Land Use and Land Cover Change Analysis Using Satellite Remote Sensing and GIS -- a case study in Kangding County, Xizang Autonomous Region, China ， Remote Sensing and GIS. 2010 Second IITA Conference on Geoscience and Remote Sensing (IITA- GRS 2010)，pp385-388.(EI收录20104713403373）
-
-Dai, Xiao-Ai,Yang, Wu-Nian,Tang, Chuan，Analysis of Landscape Spatial Pattern Changes Using Remote Sensing in Jiuzhaigou Valley，Northwestern Sichuan Province, China，The Special Workshop on Geoscience and Remote Sensing (IWGRS2010)，(EI收录20111013721731）
-
-戴晓爱，李丽，GIS与模糊综合评判方法在垃圾填埋场选址中的应用[J]. 测绘科学,2011,(5). 128-130
-
-戴晓爱,杨武年,. 基于RS和GIS的小城镇建设土地利用优化研究[J]. 测绘信息与工程,2011,(1). 15-17
-
-戴晓爱,仲凤呈,兰燕,刘珊红,. GIS与层次分析法结合的超市选址研究与实现[J]. 测绘科学,2009,(1). 184-186
-
-戴晓爱,杨武年,夏涛,刘汉湖,曾涛,. 遥感图像三维可视化的实现及应用研究——以腾冲机场建设工程为例[J]. 地域研究与开发,2008,(4).121-124 
-
-戴晓爱,杨武年,徐云霞,兰燕,刘珊红,徐强,. 基于RS和GIS的九寨沟景观格局动态分析[J]. 物探化探计算技术,2008,(3).245-249 
-
-戴晓爱,杨武年,刘汉湖,马玲,. 遥感图像三维可视化及在腾冲机场建设中的应用研究[J]. 遥感信息,2008,(2).60-63 
-
-戴晓爱,唐能福,杨武年,刘汉湖. 利用STL技术生成TIN模型的算法[J]. 测绘科学,2005,(5). 
-
-戴晓爱,叶际阳,简季,. 基于B/S结构的校园WebGIS设计与实现——以成都理工大学为例[J]. 测绘,2010,(1).13-17
-
-戴晓爱，杨武年等.[分层土壤水分的遥感估算——以岷江上游毛儿盖地区为例](http://dbpub.cnki.net/grid2008/brief/detailj.aspx?filename=DZKG201206010&dbname=CJFDTEMP)[J].国土资源科技管理.2012,(06).54-58
-
-戴晓爱，杨武年等.遥感科学与技术专业卓越工程师培养方案探索[J]. 测绘科学,2014,(8). 
-
-戴晓爱. 基于遥感技术进行机场净空分析的探讨——以腾冲机场为例[A]. 中国国土经济学会.全国国土资源与环境遥感应用技术研讨会论文集[C].中国国土经济学会:,2009:4.
-
-戴晓爱,杨武年,邵怀勇,刘汉湖,简季,薛东健,郝莉娜. 卓越工程师“3+1”教学培养模式实践探索——以成都理工大学遥感科学与技术专业为例[J]. 测绘,2014,04:189-192.
-
-戴晓爱.基于“大地学”背景的《地图学》课程教学改革与实践[J]. 测绘,2013,(6) :284-286. （教改论文）
-
-戴晓爱.GIS本科专业的地图学教学改革实践[A]. 2010全国地理信息系统教学研讨会论文集[C].中国GIS协会:,2010:11.
-
-戴晓爱.GIS专业中《计算机地图制图》课程教学内容和方法的探讨[A]. 中国GIS协会第四次教育研讨会论文集[C]. 中国GIS协会:,2011:10.
-
-戴晓爱.基于“大地学”背景的《地图学》实验课程教学改革与实践[A]. 中国GIS协会第五次教育研讨会论文集[C]. 中国GIS协会:,2012:09. 
-
-卓越工程师背景下遥感科学与技术专业培养方案与教学实践探索，中国GIS协会第六次教育研讨会论文集
-
-贺倩,戴晓爱.基于LMDI模型定量分析三江源区植被对土壤侵蚀变化的影响[J/OL].长江科学院院报:1-8 [2021-12-11]. http://kns.cnki.net/kcms/detail/42.1171.tv.20190801.1103.002.html.
+- Xiaoai Dai, Haipeng Feng, Lixiao Xiao, Jiayun Zhou, Zekun Wang, Junjun Zhang, Tianzhang Fu, Yunfeng Shan, Xianhua Yang, Yakang Ye, Li Xu, Xiaoli Jiang, Shibo Fang, Yuanzhi Yao. Ecological vulnerability assessment of a China's representative mining city based on hyperspectral remote sensing. Ecological Indicators, 2022:145:109663. ISSN 1470-160X.https://doi.org/10.1016/j.ecolind.2022.109663.
+- Dai, X.;Wang,Z.;Liu S.;Yao,Y. Hyperspectral imagery reveals large spatial variations of heavy metal content in agricultural soil - A case study of remote-sensing inversion based on Orbita Hyperspectral Satellites (OHS) imagery. Journal of Cleaner Production. 2022:380(1):134878, ISSN 0959-6526, https://doi.org/10.1016/j.jclepro.2022.134878.
+- Dai, X.;Wang,Z.;Liu S.;Yao,Y. Hyperspectral imagery reveals large spatial variations of heavy metal content in agricultural soil - A case study of remote-sensing inversion based on Orbita Hyperspectral Satellites (OHS) imagery. Journal of Cleaner Production. 2022 (Accepted)
+- Zeng J, Xu J, Li W, Dai X*, Zhou J, Shan Y, Zhang J, Li W, Lu H, Ye Y, Xu L, Liang S, Wang Y. Evaluating Trade-Off and Synergies of Ecosystem Services Values of a Representative Resources-Based Urban Ecosystem: A Coupled Modeling Framework Applied to Panzhihua City, China. Remote Sensing. 2022; 14(20):5282. https://doi.org/10.3390/rs14205282
+- Yang, X.; Dai, X.; Li, W.; Lu, H.; Liu, C.; Li, N.; Yang, Z.; He, Y.; Li, W.; Fu, X.; et al.Socio-Ecological Vulnerability in Aba Prefecture, Western Sichuan Plateau: Evaluation, Driving Forces and Scenario Simulation. ISPRS Int. J. Geo-Inf. 2022, 11, 524. https://doi.org/10.3390/ijgi11100524
+- Yang, Z., Duan, S*., Dai, X*., Sun, Y., & Liu, M. (2022). Mapping of lakes in the Qinghai-Tibet Plateau from 2016 to 2021: Trend and potential regularity. International Journal of Digital Earth. https://doi.org/10.1080/17538947.2022.2131008
+- Qu, G.; Dai, X.; Cheng, J.; Li,W.; Wang, M.; Liu, W.; Yang, Z.; Shan,Y.; Ren, J.; Lu, H.; et al. Characterization of Long-Time Series Variation of Glacial Lakes in Southwestern Tibet: A Case Study in the Nyalam County. Remote Sens. 2022, 14, 4688. https://doi.org/ 10.3390/rs14194688
+- Liu, W.; Dai, X.; Wang, M.;Lan, Y.; Qu, G.; Shan, Y.; Ren, J.; Li,W.; Liang, S.; Wang, Y.; et al. Area Changes and Influencing Factors of Large Inland Lakes in Recent 20 Years: A Case Study of Sichuan Province, China. Water 2022, 14, 2816. https://doi.org/10.3390/w1418281
+- Shan Y, Dai X*, Li W, Yang Z, Wang Y, Qu G, Liu W, Ren J, Li C, Liang S, Zeng B. Detecting Spatial-Temporal Changes of Urban Environment Quality by Remote Sensing-Based Ecological Indices: A Case Study in Panzhihua City, Sichuan Province, China. Remote Sensing. 2022; 14(17):4137. https://doi.org/10.3390/rs14174137
+- Dai, X.; Fan, W.; Shan, Y.;Gao, Y.; Liu, C.; Nie, R.; Zhang, D.; Li,W.; Zhang, L.; Sun, X.; et al. LAI-Based Phenological Changes and Climate Sensitivity Analysis in the Three-River Headwaters Region. Remote Sens. 2022, 14, 3748. https://doi.org/10.3390/rs14153748
+- Zhichong Yang, Xiaoai Dai*, Zekun Wang, Xiaojie Gao, Ge Qu, Weile Li, Jingzhong Li, Heng Lu, Youlin Wang; The dynamics of Paiku Co lake area in response to climate change. Journal of Water and Climate Change 2022; jwc2022083. doi: https://doi.org/10.2166/wcc.2022.083
+- Cheng J, Dai X, Wang Z, et al. Landslide Susceptibility Assessment Model Construction Using Typical Machine Learning for the Three Gorges Reservoir Area in China[J]. Remote Sensing, 2022, 14(9): 2257.
+- Jiang, F., Dai, X.*, Xie, Z. et al. Flood inundation evolution of barrier lake and evaluation of regional ecological spatiotemporal response—a case study of Sichuan-Tibet region. Environ Sci Pollut Res (2022). https://doi.org/10.1007/s11356-022-20866-y
+- Wang, X., Chen, G., Dai, X*. et al. Improved Process Management of Glacial Lake Outburst Flood Hazards by Integrating Modular Monitoring, Assessment, and Simulation. Water Resour Manage (2022). https://doi.org/10.1007/s11269-022-03146-9
+- Shiqi Zhang, Xiaoai Dai*, Jingzhong Li, Xiaojie Gao, Fuxi Zhang, Fanxi Gong, Heng Lu, Meilian Wang, Fujiang Ji, Zekun Wang & Peihao Peng (2022): Crop Classification for UAV Visible Imagery Using Deep Semantic Segmentation Methods, Geocarto International, DOI: 10.1080/10106049.2022.203238
+- Zhang, J.; Xu, J.; Dai, X.; Ruan, H.; Liu, X.; Jing, W. Multi-Source Precipitation Data Merging for Heavy Rainfall Events Based on Cokriging and Machine Learning Methods. Remote Sens. 2022, 14, 1750. https://doi.org/10.3390/rs14071750
+- 樊文杰,戴晓爱*,谢一茹,高怡凡.利用CLUE-S模型对四川省未来10年土地利用变化的预测与分析[J].科学技术与工程,2022,22(07):2641-2647.
+- 戴晓爱*,邵怀勇,刘汉湖,简季,罗智勇,田盛圭,杨武年.山地灾害防治GIS思政教学案例库构建[J].南京师大学报(自然科学版),2021,44(S1):49-56.（doi:10.3969/j. issn.1001-4616.2021.S1.008）.
+- Dai, X. , Liu, C. , Li, N. , Wang, M. , & Wang, Z. . (2021). Lai scale effect research based on compact airborne spectrographic imager data in the heihe oasis. Journal of Mountain Science, 18(6), 1630-1645. https://doi.org/10.1007/s11629-020-6525-1
+- Dai, X*., He, X., Guo, S. et al. Research on hyper-spectral remote sensing image classification by applying stacked de-noising auto-encoders neural network. Multimedia Tools and Applications 80, 21219–21239 (2021).https://doi.org/10.1007/s11042-021-10735-0
+- Dai X, Johnson BA, Luo P, Yang K, Dong L, Wang Q, Liu C, Li N, Lu H, Ma L, Yang Z, Yao Y. Estimation of Urban Ecosystem Services Value: A Case Study of Chengdu, Southwestern China. Remote Sensing. 2021; 13(2):207. https://doi.org/10.3390/rs13020207
+- HE Qian,DAI Xiao’ai*,CHEN Shiqi. Assessing the effects of vegetation and precipitation on soil erosion in the Three-River Headwaters Region of the Qinghai-Tibet Plateau,China.Journal of Arid Land,2020,12(5):865-886. ![img](file:///C:/Users/asus/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png)https://doi.org/10.1007/s40333-020-0075-9.
+- Dai, X.*, Gao, Y., He, X. et al. Spatial-temporal pattern evolution and driving force analysis of ecological environment vulnerability in Panzhihua City. Environ Sci Pollut Res (2020). https://doi.org/10.1007/s11356-020-11013-6
+- Xiaoai Dai*, Junying Cheng, Yu Gao, Shouheng Guo, Xingping Yang, Xiaoqian Xu, Yi Cen, "Deep Belief Network for Feature Extraction of Urban Artificial Targets", Mathematical Problems in Engineering, vol. 2020, Article ID 2387823, 13 pages, 2020. https://doi.org/10.1155/2020/238782
+- Dai, X.*; Yang, X.; Wang, M.; Gao, Y.; Liu, S.; Zhang, J. The Dynamic Change of Bosten Lake Area in Response to Climate in the Past 30 Years[J].Water ,2020, 12, 4:1-23.
+- 陈艾琳，戴晓爱*，张诗琪，周旋.2007-2016年四川省土壤干旱时空动态分析[J].山地学报，2020,38（1）:001-010
+- Bing, X. and Y. Wu-nian, et al. (2018). "Quantitative Retrieval of Soil Moisture Content in the Upper Reaches of the Minjiang River." Polish Journal of Environmental Studies 27. Pol. J. Environ. Stud. Vol. 27, No. 5 (2018), 1959-1964
+- 戴晓爱*，郭守恒等,.基于堆栈式稀疏自编码器的高光谱影像分类[J]. 电子科技大学学报, 2016, 45(3): 382-386
+- Yan, Lan; Xiaoai, Dai*; Xiaoxue, Zhang; Yanxia, Gan; Dingfa, Huang ,Analysis of canopy spectral sensitivity on representative campus vegetation in different growth periods[J], International Journal of Earth Sciences and Engineering, 2016,09：2060-2065
+- 戴晓爱;贾虎军;吴芬芳;杨晓霞;空间数据压缩的高光谱降维技术比较[J].遥感信息;2017,32（2）：107-112
+- 戴晓爱,杨晓霞,高孝杰,杨武年,贾虎军,杨叶,潘佩芬. 基于高光谱非线性向量空间的光谱曲线特征差异性分析[J]. 遥感技术与应用,2015,06:1095-1102.
+- 戴晓爱,贾虎军等,. 岷江上游亚高山典型森林植被高光谱特征识别[J]. 国土资源遥感,2016,28(3),14-20
+- 韩亮,戴晓爱等,. 改进的基于实地大气模式的大气透射率反演方法J]. 国土资源遥感, 2016,28(4): 88-92.
+- 杨雨薇, 戴晓爱*, 牛育天, 刘汉湖, 杨晓霞, 兰燕. 基于CASI数据的黑河绿洲区叶面积指数反演[J]. 国土资源遥感, 2017,29(4): 179-184.
+- 王美莲, 戴晓爱*. 植被覆盖度与温度关系的MODIS高光谱研究[J]. 测绘科学, 2018(4).
+- 王翔, 戴晓爱, 陈永俊,等. 金属矿区型城镇生态热环境效应分析[J]. 科学技术与工程, 2019, 19(13):12-19.
+- 贺倩,戴晓爱.基于LMDI模型定量分析三江源区植被对土壤侵蚀变化的影响[J/OL].长江科学院院报:1-8[2020-06-15].http://kns.cnki.net/kcms/detail/42.1171.tv.20190801.1103.002.html.
+- Dai, Xiao-Ai,Yang, Wu-Nian,Tang, Chuan， Application of 3D Visualization of Remote Sensing Images for Airport Construction in Tengchong County, Yunnan Province, China-- a case study in Kangding County, Xizang Autonomous Region,2011 International Workshop on Multi-Platform/Multi-Sensor Remote Sensing and Mapping China，pp126-129. (EI收录20110813687434）
+- Dai, Xiao-Ai,Yang, Wu-Nian,Tang, Chuan， Land Use and Land Cover Change Analysis Using Satellite Remote Sensing and GIS -- a case study in Kangding County, Xizang Autonomous Region, China ， Remote Sensing and GIS. 2010 Second IITA Conference on Geoscience and Remote Sensing (IITA- GRS 2010)，pp385-388.(EI收录20104713403373）
+- Dai, Xiao-Ai,Yang, Wu-Nian,Tang, Chuan，Analysis of Landscape Spatial Pattern Changes Using Remote Sensing in Jiuzhaigou Valley，Northwestern Sichuan Province, China，The Special Workshop on Geoscience and Remote Sensing (IWGRS2010)，(EI收录20111013721731）
+- 戴晓爱，李丽，GIS与模糊综合评判方法在垃圾填埋场选址中的应用[J]. 测绘科学,2011,(5). 128-130
+- 戴晓爱,杨武年,. 基于RS和GIS的小城镇建设土地利用优化研究[J]. 测绘信息与工程,2011,(1). 15-17
+- 戴晓爱,仲凤呈,兰燕,刘珊红,. GIS与层次分析法结合的超市选址研究与实现[J]. 测绘科学,2009,(1). 184-186
+- 戴晓爱,杨武年,夏涛,刘汉湖,曾涛,. 遥感图像三维可视化的实现及应用研究——以腾冲机场建设工程为例[J]. 地域研究与开发,2008,(4).121-124 
+- 戴晓爱,杨武年,徐云霞,兰燕,刘珊红,徐强,. 基于RS和GIS的九寨沟景观格局动态分析[J]. 物探化探计算技术,2008,(3).245-249 
+- 戴晓爱,杨武年,刘汉湖,马玲,. 遥感图像三维可视化及在腾冲机场建设中的应用研究[J]. 遥感信息,2008,(2).60-63 
+- 戴晓爱,唐能福,杨武年,刘汉湖. 利用STL技术生成TIN模型的算法[J]. 测绘科学,2005,(5). 
+- 戴晓爱,叶际阳,简季,. 基于B/S结构的校园WebGIS设计与实现——以成都理工大学为例[J]. 测绘,2010,(1).13-17
+- 戴晓爱，杨武年等.[分层土壤水分的遥感估算——以岷江上游毛儿盖地区为例](http://dbpub.cnki.net/grid2008/brief/detailj.aspx?filename=DZKG201206010&dbname=CJFDTEMP)[J].国土资源科技管理.2012,(06).54-58
+- 戴晓爱，杨武年等.遥感科学与技术专业卓越工程师培养方案探索[J]. 测绘科学,2014,(8). 
+- 戴晓爱. 基于遥感技术进行机场净空分析的探讨——以腾冲机场为例[A]. 中国国土经济学会.全国国土资源与环境遥感应用技术研讨会论文集[C].中国国土经济学会:,2009:4.
+- 戴晓爱,杨武年,邵怀勇,刘汉湖,简季,薛东健,郝莉娜. 卓越工程师“3+1”教学培养模式实践探索——以成都理工大学遥感科学与技术专业为例[J]. 测绘,2014,04:189-192.
+- 戴晓爱.基于“大地学”背景的《地图学》课程教学改革与实践[J]. 测绘,2013,(6) :284-286. （教改论文）
+- 戴晓爱.GIS本科专业的地图学教学改革实践[A]. 2010全国地理信息系统教学研讨会论文集[C].中国GIS协会:,2010:11.
+- 戴晓爱.GIS专业中《计算机地图制图》课程教学内容和方法的探讨[A]. 中国GIS协会第四次教育研讨会论文集[C]. 中国GIS协会:,2011:10.
+- 戴晓爱.基于“大地学”背景的《地图学》实验课程教学改革与实践[A]. 中国GIS协会第五次教育研讨会论文集[C]. 中国GIS协会:,2012:09. 
+- 卓越工程师背景下遥感科学与技术专业培养方案与教学实践探索，中国GIS协会第六次教育研讨会论文集
+- 贺倩,戴晓爱.基于LMDI模型定量分析三江源区植被对土壤侵蚀变化的影响[J/OL].长江科学院院报:1-8 [2021-12-11]. http://kns.cnki.net/kcms/detail/42.1171.tv.20190801.1103.002.html.
