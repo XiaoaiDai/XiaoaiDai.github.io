@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 ## 第一作者/通讯作者发表论文
+- Zeng, J.; Dai, X.*; Li, W.; Xu, J.; Li, W.; Liu, D. Quantifying the Impact and Importance of Natural, Economic, and Mining Activities on Environmental Quality Using the PIE-Engine Cloud Platform: A Case Study of Seven Typical Mining Cities in China. Sustainability 2024, 16, 1447. https://doi.org/10.3390/su16041447 
+- Dai, T., Dai, X*., Lu, H. et al.  The impact of climate change and human activities on the change in the net primary productivity of vegetation--taking Sichuan Province as an example. Environ Sci Pollut Res 31, 7514–7532 (2024).  https://doi.org/10.1007/s11356-023-31520-6
+- 曾见闻，戴晓爱*，徐纪鹏，李雯雨，刘东升．基于 PIE-Engine 云计算平台和 CASA 模型的植被 NPP 时空动态遥感监测：以道孚县为例[J/OL]．水利水电技 术(中英文). https://link.cnki.net/urlid/10.1746.TV.20231205.0931.002 
+- Yang Z, Dai X, Lu H, et al. Evaluation and prediction of water conservation of the Yellow river basin in Sichuan Province, China, based on Google Earth Engine and CA-Markov[J]. Heliyon, 2023: e17903.
 - Tao He, Xiaoai Dai*, Wenyu Li, Jiayun Zhou, Junjun Zhang, Cheng Li, Tangrui Dai, Weile Li, Heng Lu, Yakang Ye, Li Xu, Xiaoli Jiang,Response of net primary productivity of vegetation to drought: A case study of Qinba Mountainous area, China (2001–2018),Ecological Indicators,Volume 149,2023,110148,https://doi.org/10.1016/j.ecolind.2023.110148.
 - Bohan Jiang, Wei Chen, Xiaoai Dai*, Min Xu, Lanfa Liu, Tetsuro Sakai, Siliang Li,Change of the spatial and temporal pattern of ecological vulnerability: A case study on Cheng-Yu urban agglomeration, Southwest China,Ecological Indicators, Volume 149,2023,110161, https://doi.org/10.1016/j.ecolind.2023.110161.
 - Xiaoai Dai, Junying Cheng,Shouheng Guo,Chengchen Wang,Ge Qu,Wenxin Liu,Weile Li,Heng Lu,Youlin Wang,Binyang Zeng,Yunjie Peng,and Shuneng Liang.Optimization Strategy of a Stacked Autoencoder and Deep Belief Network in a Hyperspectral Remote-Sensing Image Classification Model,Discrete Dynamics in Nature and Society, vol. 2023, Article ID 9150482, 20 pages, 2023. https://doi.org/10.1155/2023/9150482.

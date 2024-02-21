@@ -21,7 +21,7 @@ redirect_from:
 
 **专   业**：地球探测与信息技术
 
-**职   称**：副教授（地图学与地理信息系统）
+**职   称**：教授（地图学与地理信息系统）
 
 **Email**：daixiaoai@163.com    daixiaoa@cdut.edu.cn
 
